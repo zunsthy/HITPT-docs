@@ -8,10 +8,10 @@
 
   * [BasicQuestions](/FAQ/BasicQ.md)
   * [UserInformation](/FAQ/UserI.md)
-  * [DataStatic](/FAQ/DataS.md)
+  * [DataStatistics](/FAQ/DataS.md)
   * [UpLoad](/FAQ/UpL.md)
   * [DownLoad](/FAQ/DownL.md)
-  * [Others ](/FAQ/OtherQ.md)
+  * [OthersQuestions](/FAQ/OtherQ.md)
 
 
 * [Forum](Forum/Forum.md)
