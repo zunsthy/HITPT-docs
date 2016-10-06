@@ -10,7 +10,7 @@
   * [UserInformation](/FAQ/UserI.md)
   * [DataStatic](/FAQ/DataS.md)
   * [UpLoad](/FAQ/UpL.md)
-  * [DownLoda](/FAQ/DownL.md)
+  * [DownLoad](/FAQ/DownL.md)
   * [Others ](/FAQ/OtherQ.md)
 
 
